@@ -1,0 +1,219 @@
+const DIR = "C반 APS 기본";
+// total page 438;
+// 목차
+const DIR = "C반 APS 기본/목차";
+const MAX_PAGE = 4;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-d07c8b58-483e52c7-";
+// 배열 1
+const DIR = "C반 APS 기본/배열 1";
+const MAX_PAGE = 54;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-09d839ce-f384b24c-";
+// 배열 2
+const DIR = "C반 APS 기본/배열 2";
+const MAX_PAGE = 46;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-dd56f081-05f18b81-";
+// 문자열
+const DIR = "C반 APS 기본/문자열";
+const MAX_PAGE = 51;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-15d805ca-8a75e016-";
+// 스택 1
+const DIR = "C반 APS 기본/스택 1";
+const MAX_PAGE = 47;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-e7f787bb-14207fbd-";
+// 스택 2
+const DIR = "C반 APS 기본/스택 2";
+const MAX_PAGE = 68;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-889e8a87-dcacca97-";
+// 큐
+const DIR = "C반 APS 기본/큐";
+const MAX_PAGE = 62;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-56c08a43-f898e0ec-";
+// 리스트
+const DIR = "C반 APS 기본/리스트";
+const MAX_PAGE = 60;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-7a6eed24-74dae28b-";
+// 트리
+const DIR = "C반 APS 기본/트리";
+const MAX_PAGE = 46;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113004727700/assets/page-images/page-82a2d9a8-1e3cf3a6-";
+
+
+const DIR = "C반 APS 응용";
+// total page 751;
+// 목차
+const DIR = "C반 APS 응용/목차";
+const MAX_PAGE = 3;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-a15e6345-1488f145-";
+// 소개
+const DIR = "C반 APS 응용/소개";
+const MAX_PAGE = 5;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-b51f1cc3-84785c8f-";
+// Start
+const DIR = "C반 APS 응용/Start";
+const MAX_PAGE = 60;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-00086e10-edafab29-";
+// 완전 검색 & 그리디
+const DIR = "C반 APS 응용/완전 검색 & 그리디";
+const MAX_PAGE = 75;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-9695b219-5597853c-";
+// 분할 정복 & 백트래킹
+const DIR = "C반 APS 응용/분할 정복 & 백트래킹";
+const MAX_PAGE = 130;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-bd82eb89-cc010758-";
+// 그래프
+const DIR = "C반 APS 응용/그래프";
+const MAX_PAGE = 88;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-12e973a8-7429e0f1-";
+// 문자열
+const DIR = "C반 APS 응용/문자열";
+const MAX_PAGE = 89;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-620e7be3-a9c32ae9-";
+// DP-1
+const DIR = "C반 APS 응용/DP-1";
+const MAX_PAGE = 85;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-11841771-90aa9217-";
+// DP-2
+const DIR = "C반 APS 응용/DP-2";
+const MAX_PAGE = 103;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-1505cff0-b01ab586-";
+// Math & Probability
+const DIR = "C반 APS 응용/Math & Probability";
+const MAX_PAGE = 113;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072113175889600/assets/page-images/page-3a094e14-296e1459-";
+
+
+const DIR = "0826_알고리즘_분할정복_백트래킹";
+const MAX_PAGE = 135;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082611330449900/assets/page-images/page-6f7baf76-37eb0d66-";
+
+const DIR = "4기_C반_Web기초_1일차";
+const MAX_PAGE = 71;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072009401913500/assets/page-images/page-852095-";
+
+const DIR = "4기_C반_Web기초_2일차";
+const MAX_PAGE = 38
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072110114500800/assets/page-images/page-530079-";
+
+const DIR = "4기_C반_Web기초_3일차";
+const MAX_PAGE = 59;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072209580327100/assets/page-images/page-814092-";
+
+const DIR = "4기_C반_Web기초_4일차";
+const MAX_PAGE = 38;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020072311291365300/assets/page-images/page-571055-";
+
+const DIR = "4기_C반_Web기초_5일차";
+const MAX_PAGE = 60;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081011174785700/assets/page-images/page-7e0e2c43-0e3651d5-";
+
+const DIR = "4기_C반_Web기초_6일차";
+const MAX_PAGE = 52;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081011195215800/assets/page-images/page-e0f6ca04-22d79d84-";
+
+const DIR = "4기_C반_DB_1일차";
+const MAX_PAGE = 97;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081210515754300/assets/page-images/page-426092-";
+
+const DIR = "4기_C반_DB_2일차";
+const MAX_PAGE = 43;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081310173654500/assets/page-images/page-595034-";
+
+const DIR = "4기_C반_DB_3일차";
+const MAX_PAGE = 111;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081810054288100/assets/page-images/page-662088-";
+
+const DIR = "4기_C반_Django & Node.js_1일차";
+const MAX_PAGE = 38;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020081913232437600/assets/page-images/page-096061-";
+
+const DIR = "4기_C반_Django & Node.js_2일차";
+const MAX_PAGE = 36;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082109172061500/assets/page-images/page-539060-";
+
+const DIR = "4기_C반_Django & Node.js_3일차";
+const MAX_PAGE = 28;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082109182628600/assets/page-images/page-712018-";
+
+const DIR = "4기_C반_Django & Node.js_4일차";
+const MAX_PAGE = 38;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082411421335600/assets/page-images/page-779080-";
+
+const DIR = "4기_C반_Vue.js_1일차";
+const MAX_PAGE = 51;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082509461244300/assets/page-images/page-183085-";
+
+const DIR = "200831_문자열";
+const MAX_PAGE = 90;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082812381388800/assets/page-images/page-22b3bc5e-825867ab-";
+
+const DIR = "200902_DP";
+const MAX_PAGE = 86;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020082812393776400/assets/page-images/page-2ca26899-1fb7f059-";
+
+const DIR = "4기_C반_Live_Vue.js";
+const MAX_PAGE = 18;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020090711254472600/assets/page-images/page-850030-";
+
+const DIR = "4기_C반_Vue.js_2일차";
+const MAX_PAGE = 34;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020090810023154500/assets/page-images/page-722022-";
+
+const DIR = "4기_C반_Vue.js_3~4일차";
+const MAX_PAGE = 24;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020090908573210100/assets/page-images/page-066094-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_1일차";
+const MAX_PAGE = 173;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020091410005614600/assets/page-images/page-876016-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_2일차";
+const MAX_PAGE = 117;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020091510080923500/assets/page-images/page-780045-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_3일차";
+const MAX_PAGE = 152;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020091609274008500/assets/page-images/page-622099-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_4일차";
+const MAX_PAGE = 145;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020091709372562600/assets/page-images/page-770066-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_5일차";
+const MAX_PAGE = 101;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020091809241550300/assets/page-images/page-313032-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_6일차";
+const MAX_PAGE = 118;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020092109294698500/assets/page-images/page-202081-";
+
+const DIR = "4기_C반_리눅스 쉘 프로그래밍_7일차";
+const MAX_PAGE = 101;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020092209152018200/assets/page-images/page-547063-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_1일차";
+const MAX_PAGE = 58;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020092309285813300/assets/page-images/page-957045-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_2일차";
+const MAX_PAGE = 37;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020092410402519000/assets/page-images/page-155047-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_3일차";
+const MAX_PAGE = 58;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020092518064469400/assets/page-images/page-322055-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_4일차";
+const MAX_PAGE = 57;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020100513461001200/assets/page-images/page-974083-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_5일차";
+const MAX_PAGE = 118;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020100514004214600/assets/page-images/page-584009-";
+
+const DIR = "4기_C반_리눅스 시스템 프로그래밍_6일차";
+const MAX_PAGE = 77;
+const BASE_URL = "http://edu.ssafy.com/data/upload_files/crossUpload/openLrn/ebook/unzip/A2020100609515763500/assets/page-images/page-293021-";
+
+const DIR = "";
+const MAX_PAGE = ;
+const BASE_URL = "";
