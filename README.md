@@ -32,11 +32,11 @@ await page.evaluate(() => {
 
 지금까지 올라온 강의교재의 페이지, 원본URL은 original_link.txt파일에 정리해두었습니다.
 
-![](.\assets\scr01.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/scr01.PNG?raw=true)
 
 DIR을 보고 원하는 강의자료를 찾아서 아래로 3줄을 복사하세요.
 
-![](.\assets\scr02.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/scr02.PNG?raw=true)
 
 ebook.js에 붙여넣으세요(2~4 라인)
 
@@ -62,19 +62,19 @@ node ebook
 
 다운로드 받고 싶은 강의자료를 열고 개발자 도구를 실행해 주세요.
 
-![](.\assets\screen01.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/screen01.PNG?raw=true)
 
 네트워크 탭으로 이동하세요.
 
-![](.\assets\screen02.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/screen02.PNG?raw=true)
 
 개발자 도구의 네트워크 탭을 켜놓고 페이지를 뒤로 파바바박 넘기다보면 강의자료 원본 이미지파일을 불러오는 패킷이 잡힙니다.
 
-![](.\assets\screen03.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/screen03.PNG?raw=true)
 
 page-09.... .jpg 패킷들이 강의자료입니다. 아무거나 클릭하세요.
 
-![](.\assets\screen04.PNG)
+![](https://github.com/kusakina0608/SSAFY-Ebook/blob/master/assets/screen04.PNG?raw=true)
 
 Request URL의 선택된 부분이 파일을 식별하는 부분이고, 뒤쪽이 페이지 번호와 확장자입니다. 크롤링 할 때는 앞부분만 필요합니다. 복사해주세요.
 
